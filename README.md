@@ -25,6 +25,7 @@ https://drive.google.com/file/d/1118Jwzj51KpXd0T5jiebn9ykCygwbkhn/view
 ## Installation
 ### Clone the repository
 git clone https://github.com/PushtiShah04/Credit_card_fraud_detection.git
+
 cd credit-card-fraud-detection
 
 ### Install dependencies
